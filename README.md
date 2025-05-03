@@ -4,6 +4,14 @@
     University of Rajshahi
   Email: shakilhossan113@gmail.com
 
+  ## 🔧 Requirements
+
+- Python (>= 3.6)
+- OpenCV
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
 ### Lab Problems List
     Problem 1: Take the grayscale image of size 512x512 & perform the following operations 
 	  (a) Decrease its spatial resolution by half every time & observe its change when displaying in the same window size 
